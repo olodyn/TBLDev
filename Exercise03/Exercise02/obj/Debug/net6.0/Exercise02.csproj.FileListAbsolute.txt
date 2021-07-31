@@ -1,0 +1,12 @@
+E:\Dev\Core\Exercise03\Exercise02\bin\Debug\net6.0\Exercise02.deps.json
+E:\Dev\Core\Exercise03\Exercise02\bin\Debug\net6.0\Exercise02.dll
+E:\Dev\Core\Exercise03\Exercise02\bin\Debug\net6.0\ref\Exercise02.dll
+E:\Dev\Core\Exercise03\Exercise02\bin\Debug\net6.0\Exercise02.pdb
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\Exercise02.csproj.AssemblyReference.cache
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\Exercise02.AssemblyInfoInputs.cache
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\Exercise02.AssemblyInfo.cs
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\Exercise02.csproj.CoreCompileInputs.cache
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\Exercise02.dll
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\ref\Exercise02.dll
+E:\Dev\Core\Exercise03\Exercise02\obj\Debug\net6.0\Exercise02.pdb
